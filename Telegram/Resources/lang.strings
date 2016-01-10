@@ -640,9 +640,9 @@ Copyright (c) 2014-2015 John Preston, https://desktop.telegram.org
 "lng_cant_more_info" = "More info »";
 
 "lng_send_button" = "Send";
-"lng_message_ph" = "Write a message..";
-"lng_comment_ph" = "Write a comment..";
-"lng_broadcast_ph" = "Broadcast a message..";
+"lng_message_ph" = "Write a message...";
+"lng_comment_ph" = "Write a comment...";
+"lng_broadcast_ph" = "Broadcast a message...";
 "lng_record_cancel" = "Release outside this field to cancel";
 "lng_empty_history" = "";
 "lng_willbe_history" = "Please select a chat to start messaging";
